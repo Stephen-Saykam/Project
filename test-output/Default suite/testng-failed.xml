@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.practice.DebugTest">
+      <class name="DDT.practice.ReadDataFromExcelThroughDataProvider">
         <methods>
-          <include name="debudTest"/>
+          <include name="ExcelThroughDataProvider"/>
         </methods>
-      </class> <!-- com.practice.DebugTest -->
+      </class> <!-- DDT.practice.ReadDataFromExcelThroughDataProvider -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

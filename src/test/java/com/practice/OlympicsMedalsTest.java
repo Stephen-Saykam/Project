@@ -14,7 +14,7 @@ public class OlympicsMedalsTest {
 	@Test
 	public void olympicsMedalsTest() throws InterruptedException
 	{
-		System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver1.exe");
+		System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver2.exe");
 		WebDriver driver=new ChromeDriver();
 		
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);

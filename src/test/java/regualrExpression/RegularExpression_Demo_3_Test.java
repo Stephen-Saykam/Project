@@ -3,7 +3,7 @@ package regualrExpression;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class RegualrExpression_Demo_3_Test {
+public class RegularExpression_Demo_3_Test {
 
 	public static void main(String[] args) {
 		
